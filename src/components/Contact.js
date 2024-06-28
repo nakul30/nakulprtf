@@ -71,6 +71,7 @@ export default function Contact() {
           </div>
         </div>
         <form
+          netlify
           name="contact"
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
@@ -79,8 +80,8 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-1">
-            If you&apos;re looking for a dedicated and enthusiastic team member,
-            let&apos;s connect!
+            If you're looking for a dedicated and enthusiastic team member,
+            let's connect!
           </p>
           <p className="mb-4">
             Open to Suggestions !! 
