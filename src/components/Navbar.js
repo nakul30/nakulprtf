@@ -17,7 +17,7 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          <a href="https://github.com/nakul30" target="_blank" className="mr-5 hover:text-white">
+          <a href="https://github.com/nakul30" target="_blank" rel="noopener noreferrer" className="mr-5 hover:text-white">
             Github
           </a>
           <a href="/Nakul_Garg_2024.pdf" className="mr-5 hover:text-white">
